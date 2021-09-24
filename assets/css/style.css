@@ -7,6 +7,31 @@
 body {
     height: 100vh;
     display: flex;
-    background: rgb(245, 236, 66);
+    background: #5e5e5e;
+    display: flex;
+  }
+  
+  .memory-game {
+    width: 70%;
+    height: 80%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .memory-card {
+      width: 25%;
+      height: 35%;
+      position: relative;
+  }
+
+  .front-card,
+  .back-card{
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+    position: absolute;
+    border-radius: 5px;
+    background: #a3a3a1;
   }
 
