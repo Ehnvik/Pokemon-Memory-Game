@@ -3,7 +3,7 @@
     margin: 0;
     box-sizing: border-box;;
 }
-
+/*----body----*/
 body {
     height: 100vh;
     display: flex;
@@ -18,7 +18,7 @@ body {
     font-size: 55px;
   }
 
-
+/*----Game section----*/
   .memory-game {
     width: 1100px;
     height: 700px;
