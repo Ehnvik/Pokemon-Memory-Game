@@ -34,4 +34,9 @@ Pokemon Memory Game is game for children and adults. The goal of the game is to 
 
 ![completing-the-game](https://user-images.githubusercontent.com/87748379/134823639-97aea792-0844-461f-a8ed-86e1e7e57884.JPG)
 
+### **Features for the future**
+
+* In the future when there is more time. I would like to add a time limit to the game.
+
+
 
