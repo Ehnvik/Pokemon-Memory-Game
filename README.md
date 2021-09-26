@@ -27,3 +27,11 @@ Pokemon Memory Game is game for children and adults. The goal of the game is to 
 
 ![playing-the-game](https://user-images.githubusercontent.com/87748379/134823330-f6a1b3f0-1da6-4d60-b9d6-3de2298ebc49.JPG)
 
+### **Completing the game**
+
+* The game is complete when the user has matched all the Pokemon cards.
+* The player knows the challenge is completed, when all Pokemons are visible.
+
+![completing-the-game](https://user-images.githubusercontent.com/87748379/134823639-97aea792-0844-461f-a8ed-86e1e7e57884.JPG)
+
+
