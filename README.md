@@ -38,5 +38,13 @@ Pokemon Memory Game is game for children and adults. The goal of the game is to 
 
 * In the future when there is more time. I would like to add a time limit to the game.
 
+## **Testing**
+
+* I have tested playing this game on Chrome, Firefox and Safari.
+* I confirm that the fonts and colors are easy to read for the user.
+* I confirm that the game result are always correct.
+* I have run the website through lighthouse in devtool. The overall result is good. The game gets a lower score in performance because of all the images used in the game.
+
+![lighthouse](https://user-images.githubusercontent.com/87748379/134982405-bd277eac-3767-49a6-926c-9494734efa7b.JPG)
 
 
