@@ -1,5 +1,5 @@
 # **Pokemon Memory Game**
-Pokemon Memory Game is game for children and adults. The goal of the game is to match the cards that contains the same pokemon. The game is finished when all the cards with same pokemon are matched. The game let the user train there memory capability. The player can try match the cards as many times as they want, without failing the challenge. The game has no time limit either. The player can take all the times needed to complete the challenge. 
+Pokemon Memory Game is game for children and adults. The goal of the game is to match the cards together that contains the same pokemon. The game is finished when all the cards with same pokemon are matched. The game let the user train their memory capability. The player can try to match the cards as many times as they want, without failing the challenge. The game has no time limit either. The player can take all the times needed to complete the challenge. 
 
 ![pokemon-memory-game-amiresponsive](https://user-images.githubusercontent.com/87748379/134821578-6bfddaf6-5737-4d6b-9c70-59d5fbf093b3.JPG)
 
@@ -7,15 +7,15 @@ Pokemon Memory Game is game for children and adults. The goal of the game is to 
 
 ### **Page Title**
 
-* The page title (h1) is placed on top of the game board. The title refers to the Pokemon slogan "Gotta Catch 'Em All". It also give the player instructions of what the game is about.
+* The page title (h1) is placed on top of the game board. The title refers to the Pokemon slogan "Gotta Catch 'Em All". It also gives the player instructions of what the game is about.
 * The most common Pokemon colors are blue and yellow. That is why the title is styled with a yellow color.
 
 ![page-title](https://user-images.githubusercontent.com/87748379/134821932-03d93924-b143-43c3-af31-b452fe6be838.JPG)
 
 ### **Start of the game**
 
-* Before the game starts all 12 cards get placed in random positions on the board. 
-* All of the 12 cards have there back faced against the player. So the player doesn't know where the cards are positioned. 
+* Before the game starts all the 12 cards gets placed in random positions on the board. 
+* All of the 12 cards have their back faced against the player. So the player doesn't know where the cards are positioned. 
 * The card gets bigger when the player is hovering the mouse over it. This helps the player to know what card they are about to click on. 
 
 ![before-game](https://user-images.githubusercontent.com/87748379/134822352-caca1b7c-2a79-4305-baee-8c603806a919.JPG)
@@ -43,7 +43,7 @@ Pokemon Memory Game is game for children and adults. The goal of the game is to 
 * I have tested playing this game on Chrome, Firefox and Safari.
 * I confirm that the fonts and colors are easy to read for the user.
 * I confirm that the game result are always correct.
-* I confirm that the game looks good and works on all standards size screens using devtools toggle device toolbar.
+* I confirm that the game looks good and works on all standards screen sizes using the devtools toggle device toolbar.
 * I have run the website through lighthouse in devtool. The overall result is good. The game gets a lower score in performance because of all the images used in the game.
 
 ![lighthouse](https://user-images.githubusercontent.com/87748379/134982405-bd277eac-3767-49a6-926c-9494734efa7b.JPG)
@@ -73,5 +73,29 @@ Pokemon Memory Game is game for children and adults. The goal of the game is to 
 ![jshint](https://user-images.githubusercontent.com/87748379/134988247-ce912374-06da-4da5-b952-3867ae71c747.JPG)
 
 ### **Unfixed Bugs**
+
 * Two unsolved warnings in script. No unfixed bugs that affects the game.
+
+## **Deployment**
+
+* The website was deployed to GitHub pages. The following steps were taken:
+
+1. First log in to Github.
+2. Select Ehnvik/pokemon-memory-game from the repositories list.
+3. Select Settings from the Menu items.
+4. Click on pages.
+5. Change Branch: None to Branch: Main and then save.
+6. The page has now provided the link.
+
+[Pokemon Memory Game](https://ehnvik.github.io/pokemon-memory-game/)
+
+## **Credit**
+
+### **Content**
+
+* The code for making the functions and the structure in the game was taken from https://www.youtube.com/watch?v=3uuQ3g92oPQ and https://www.youtube.com/watch?v=ZniVgo8U7ek
+
+### **Media**
+
+* The images used in the game was taken from https://freepngimg.com/games/pokemon
 
