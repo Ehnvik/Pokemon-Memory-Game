@@ -1,3 +1,5 @@
+/*jshint esversion: 6 */
+
 //Store the memory-card content in the variable cards.
 const cards = document.querySelectorAll('.memory-card');
 
@@ -33,7 +35,7 @@ function disableCards() {
 
   resetBoardGame();
 }
-//Clicked cards flip back after som time.
+//Clicked cards flip back after some time.
 function unflipCards() {
   lockBoardGame = true;
 

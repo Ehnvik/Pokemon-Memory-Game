@@ -43,8 +43,35 @@ Pokemon Memory Game is game for children and adults. The goal of the game is to 
 * I have tested playing this game on Chrome, Firefox and Safari.
 * I confirm that the fonts and colors are easy to read for the user.
 * I confirm that the game result are always correct.
+* I confirm that the game looks good and works on all standards size screens using devtools toggle device toolbar.
 * I have run the website through lighthouse in devtool. The overall result is good. The game gets a lower score in performance because of all the images used in the game.
 
 ![lighthouse](https://user-images.githubusercontent.com/87748379/134982405-bd277eac-3767-49a6-926c-9494734efa7b.JPG)
 
+## **Bugs**
+
+### **Solved Bugs**
+
+* When I tested the game in JSHint I got 11 warnings that I need to use 'esversion: 6' or Mozilla JS extensions.
+* I solved this issue by adding the following comment in my script.js file: /*jshint esversion: 6 */.
+
+![jshint](https://user-images.githubusercontent.com/87748379/134986874-cb50bb3b-1196-4374-9f1d-54c0da92220f.JPG)
+
+## **Validator Testing**
+
+* I have tested my project for bugs at https://validator.w3.org/, https://jigsaw.w3.org/css-validator/ and https://jshint.com/.
+* No errors were found when testing the html file in the W3C validator.
+
+![htmlw3c](https://user-images.githubusercontent.com/87748379/134987916-a0b8eeb6-e379-4b27-991a-5ed968a112d1.JPG)
+
+* No errors were found when testing the css file in the W3C CSS validator.
+
+![cssw3c](https://user-images.githubusercontent.com/87748379/134987951-65b3a96d-b510-438d-b74b-98c3c29b59bb.JPG)
+
+* Two unsolved warnings found when testing the script file in JSHint.
+
+![jshint](https://user-images.githubusercontent.com/87748379/134988247-ce912374-06da-4da5-b952-3867ae71c747.JPG)
+
+### **Unfixed Bugs**
+* Two unsolved warnings in script. No unfixed bugs that affects the game.
 
